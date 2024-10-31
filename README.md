@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Nithin Rayavarapu</h1>
-<h3 align="center">A Passionate AI/ML Engineer from India</h3>
+<h3 align="center">An AI/ML enthusiast with a passion for building impactful web applications from India.</h3>
 <h4 align="center">Currently pursuing Integrated Mtech from Vellore Institute of Technology, Vellore, TN</h4>
 <p align="center">
   <p align="center">
