@@ -3,14 +3,33 @@
 <h4 align="center">Currently pursuing Integrated Mtech from Vellore Institute of Technology, Vellore, TN</h4>
 <p align="center">
   <p align="center">
-    <!-- <a href="">Profile</a> - -->
     <a href="https://www.linkedin.com/in/rayavarapu-nithin/">LinkedIn</a> - 
     <a href="mailto:nithinrayavarapu@gmail.com">Email</a> - 
     <a href="https://medium.com/@rvsnithin">Medium</a>
   </p>
 </p>
 
-<h2>Languages & Tools</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithinrvs" alt="nithinrvs" /></a> </p>
+
+
+<!--🔭 I’m currently working on ... -->
+🌱 I’m currently learning React & Next.js
+
+👯 I’m looking to collaborate on AI/ML Space
+<!--🤔 I’m looking for help with ... -->
+💬 Ask me about Gen AI, Machine Learning
+
+📫 How to reach me: nithinrayavarapu@gmail.com
+<!--
+😄 Pronouns: ...
+⚡ Fun fact: ... 
+
+Special Moments from My Life:
+- 🏆 
+- 💡
+-->
+
+<h2>Languages & Tools:</h2>
 <p>
     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="55" height="55"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css" width="55" height="55"/></a>
@@ -22,19 +41,24 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="55" height="55"/></a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="55" height="55"/></a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="55" height="55"/></a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="node.js" width="55" height="55"/></a>
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" alt="npm" width="55" height="55"/></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="55" height="55"/></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="55" height="55"/></a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="55" height="55"/></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="55" height="55"/></a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="55" height="55"/></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="55" height="55"/></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="55" height="55"/></a>
 </p>
 
-<h3>Learning</h3>
+<h3>Currently Learning</h3>
 <p>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="next.js" width="55" height="55"/></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="55" height="55"/></a>
 </p>
+
 
 <h2 align="left">My Stats:</h2>
 <div align="center">
@@ -45,7 +69,7 @@
   </a>
 </div>
 
-## GSSOC'24 Badges
+<h2>GSSOC'24 Badges: </h2>
 <table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" /></td>
@@ -57,7 +81,7 @@
   </tr>
 </table>
 
-## Hacktoberfest'24 Badges
+<h2>Hacktoberfest'24 Badges: </h2>
 [![An image of @nithinrvs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nithinrvs)](https://holopin.io/@nithinrvs)
 
 <!--
