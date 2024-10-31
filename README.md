@@ -82,6 +82,7 @@ Special Moments from My Life:
 </table>
 
 <h2>Hacktoberfest'24 Badges: </h2>
+
 [![An image of @nithinrvs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nithinrvs)](https://holopin.io/@nithinrvs)
 
 <!--
