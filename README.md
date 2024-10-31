@@ -13,7 +13,11 @@
 </p>
 
 <h2 align="left">My Stats:</h2>
-![](https://github-readme-stats.vercel.app/api?username=nithinrvs)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=nithinrvs&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=nithinrvs\&rank_icon=github&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinrvs&theme=dark&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## GSSOC'24 Badges
 <table align="center">
@@ -24,7 +28,6 @@
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Trailblazer Badge" /></td>
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" alt="Summit Seeker Badge" /></td>
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Champion Badge" /></td>
- 
   </tr>
 </table>
 
