@@ -15,9 +15,9 @@
 <h2 align="left">My Stats:</h2>
 <div align="center">
   <a href="https://github.com/nithinrvs">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinrvs&theme=dark" height="250em" alt="Streak Counter" /> <br />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nithinrvs&rank_icon=github&theme=dark" height="320em" alt="Most used languages" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinrvs&theme=dark&include_all_commits=true&count_private=true&layout=compact" height="320em" alt="Most used languages" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinrvs&theme=dark" height="180em" alt="Streak Counter" /> <br />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nithinrvs&rank_icon=github&theme=dark" height="150em" alt="Most used languages" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinrvs&theme=dark&include_all_commits=true&count_private=true&layout=compact" height="150em" alt="Most used languages" />
   </a>
 </div>
 
