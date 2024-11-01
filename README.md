@@ -72,7 +72,7 @@ Special Moments from My Life:
 <h2>GSSOC'24 Badges: </h2>
 <table align="center">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="55" height="55" alt="Postman Api Fundamentals Student Expert Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" /></td>
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Explorer Badge" /></td>
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="Adventurer Badge" /></td>
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Trailblazer Badge" /></td>
