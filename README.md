@@ -68,7 +68,7 @@ Special Moments from My Life:
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinrvs&theme=dark&include_all_commits=true&count_private=true&layout=compact" height="170em" alt="Most used languages" />
   </a>
 </div>
-
+<!--
 <h2>GSSOC'24 Badges: </h2>
 <table align="center">
   <tr>
@@ -85,7 +85,7 @@ Special Moments from My Life:
 
 [![An image of @nithinrvs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nithinrvs)](https://holopin.io/@nithinrvs)
 
-<!--
+
 **nithinrvs/nithinrvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
